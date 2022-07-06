@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899122569192",
+    "project_id": "furniture-app-f875b",
+    "storage_bucket": "furniture-app-f875b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899122569192:android:20871cc2b6725aa89f8e5d",
+        "android_client_info": {
+          "package_name": "com.proconnect.furniture_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899122569192-9hj44bh87dhuipge8fjdst6oa25pvci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFURfvN2crQJvKzn9PvbtX0vc1ZieO-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899122569192-9hj44bh87dhuipge8fjdst6oa25pvci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
